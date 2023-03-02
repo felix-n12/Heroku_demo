@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-image: radial-gradient(circle at center, #ff9800, #ffb74d);
+
+    
+}
+my_class{
+    font-size: 64px;
+    margin-bottom:10px;
+    color: blue;
+}
